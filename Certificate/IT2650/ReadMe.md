@@ -14,3 +14,5 @@ This was not the algorithm used in the construction, however.  This program uses
   5) Plot the current point, set it as the current position.
   6) Go to step 3, repeat until done.
 </pre>
+
+The .png file shows a screenshot of the output from the program.
