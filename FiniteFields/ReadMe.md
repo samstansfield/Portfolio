@@ -1,6 +1,6 @@
 # Finite Fields
 
-Finite fields are an important mathematical construct.  They are used in some aspects of pure mathematics, like Group Theory.  More importantly they are used in cryptography.  The reason for this is that while finding a power (exponentiation) of an element is easy, it is difficult to impossible to construct a finite logarithm in a reasonable amount of processing time.
+Finite fields are an important mathematical construct.  They are used in some aspects of pure mathematics, like Group Theory.  More importantly they are used in cryptography.  The reason for this is that while finding a power (exponentiation) of an element is easy, it is difficult to impossible to calculate a finite logarithm in a reasonable amount of processing time.
 
 Briefly, a finite field is a finite set of elements that are closed under all four arithmetic operations (Addition, Subtraction, Multiplication and Division).  
 
