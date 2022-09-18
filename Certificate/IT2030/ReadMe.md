@@ -1,4 +1,4 @@
-# IT2030 ASP-NET Core MVC programming
+# IT2030 ASP-NET Core MVC Programming
 
 Despite the relatively small course number this is considered the "capstone" course for the certficate in Programming and Development.  ASP-NET Core MVC is a methodology for server-side web programming.  I've included only one program from the course.  It is mostly written in C# and all tests were run on a KESTRAL server.  I've included some screenshots as well from the test runs.
 
