@@ -9,5 +9,4 @@ Lab 5:  Javascript Form Processing
 Lab 7:  Slide show with countdown
 Lab 9:  Jquery Animation
 Lab 12:  Weather API
-Lab 14:  Asynchronous Programming 
 </pre>
