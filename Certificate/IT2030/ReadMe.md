@@ -4,5 +4,5 @@ Despite the relatively small course number this is considered the "capstone" cou
 
 MVC stands for "Model-View-Controller".  This is a pattern for server-side programming.  Briefly, the Models are C# classes that allow one to model the data in a database.  They contain all the necessary information for construction and accessing the database.  Models are also used for other things like modelling form data from an html form.  A View is a .cshtml file which is mostly html but allows for the insertion or modification of html elements using C# commands.  The controllers tell the server how to process user requests and construct the html file to return in response to the request.
 
-
+I've included a zip file that has the entire directory tree for the solution.  I've also included some screenshots.  The table below gives an explanation for the screenshots.  
 
