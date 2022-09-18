@@ -10,8 +10,15 @@ import javax.swing.*;
  * a triangle with edge 512 with borders of width 10.  The top border is
  * slightly wider.
  * 
- * I'm not sure what to turn in as far as a test program.  The various 
- * methods do work properly and the final drawing is clearly correct.
+ * This program uses the "Chaos Game" algorithm for constructing the Sierpinski Gasket.
+ * The steps are:
+ * 1) Start with the vertices of the triangle.
+ * 2) Randomly select any point in the interior.  Set that as current position
+ * 3) Randomly select any vertex.
+ * 4) Move half way from the current position to the vertex.
+ * 5) Plot the current point, set it as the current position.
+ * 6) Go to step 3, repeat until done.
+ * 
  */
 public class gasket extends JFrame 
 {
