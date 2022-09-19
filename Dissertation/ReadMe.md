@@ -17,4 +17,4 @@ There is a third program which is not included here.  It takes the data files pr
 
 There are some graphs included here.  Some explanation is required.  Basically J = 2m+N-1 where m is the "z" compoent of angular momentum and N is the number of spatial dimensions.  The lowest angular momentum states in three dimen then have J=2.  I've also included the J=1 states which are correspond to the two dimensional problem.  
 
-There are five graphs for each J value.  They are labelled by the greek letter \nu.
+There are five graphs for each J value.  They are labelled by the greek letter [\nu].
