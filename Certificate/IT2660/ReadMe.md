@@ -7,7 +7,7 @@ The PostfixEvaluator takes a postfix expression and evaluates it. This requires 
 
 The PalindromeCheck takes a string and checks if it is a palindrome, ignoring spaces (reads the same backwards and forwards).  This requires a "queue" data structure.
 
-The SudokuBacktracking program solves a Sudoku puzzle using a backtracking algorithm.
+The SudokuBacktracking program solves a Sudoku puzzle using a recursive backtracking algorithm.
 
 The StudentBinaryTreeArray uses a "Student" node which contains basic information about a student and sorts them using a tree sort implemented on an array.
 
