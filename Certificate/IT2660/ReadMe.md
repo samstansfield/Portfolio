@@ -5,7 +5,7 @@ The title of the course is self explanatory.  All programs are in Java. I'm incl
 
 The PostfixEvaluator takes a postfix expression and evaluates it. This requires the use of a "stack" data structure.
 
-The PalindromeCheck takes a string and checks if it is a palindrome, ignoring spaces (reads the same backwards and forwards).  This requires a "queue" data structure.
+The PalindromeCheck takes a string and checks if it is a palindrome, ignoring spaces and punctuation (reads the same backwards and forwards).  This requires a "queue" data structure.
 
 The SudokuBacktracking program solves a Sudoku puzzle using a recursive backtracking algorithm.
 
